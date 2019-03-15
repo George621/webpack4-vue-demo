@@ -8,7 +8,7 @@
     name:'APP',
     data(){
       return {
-        msg: 'hellow vje32'
+        msg: '你好vue 我是George！！！'
       }
     }
   }
