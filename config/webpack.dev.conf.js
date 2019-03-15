@@ -31,7 +31,6 @@ const webpackConfig = merge(baseWebpackConfig, {
             loader: 'sass-loader',
             options: {
               sourceMap: true,
-              data: '@import "./src/styles/_variables.scss";'
             }
           }
         ]
