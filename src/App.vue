@@ -1,5 +1,5 @@
 <template>
-  <h1>{{msg}}</h1>
+  <h1 class="title">{{msg}}</h1>
 </template>
 
 
@@ -8,8 +8,10 @@
     name:'APP',
     data(){
       return {
-        msg: '你好vue 我是George！！！'
+        msg: 'hello word！！！'
       }
     }
   }
 </script>
+
+
